@@ -14,3 +14,9 @@ body {
     background-color: pink;
     position: absolute;
 }
+
+.obstacle {
+    background-color: blueviolet;
+    position: absolute;
+
+}
